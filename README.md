@@ -2,4 +2,4 @@
 <h4> Banco de dados H2</h4>
 <h4>Spring Boot</h4>
 <br>
-<footer>Material disponibilizado por cami-la, mmodificações feitas por Sheila Calixto</footer>
+<footer>Material disponibilizado por cami-la, modificações feitas por Sheila Calixto</footer>
